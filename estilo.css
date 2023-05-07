@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container img {
+    width: 800px;
+    height: 600px;
+}
+
+h1, p {
+    background-color: #fff;
+}
